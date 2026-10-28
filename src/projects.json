@@ -1,0 +1,530 @@
+[
+  {
+    "name": "大料汽车",
+    "desc": "连接人与车的数字体验",
+    "tag": "UI / 移动端设计",
+    "cover": "/assets/p1-8.webp",
+    "images": [
+      "/assets/p1-8.webp",
+      "/assets/p1-9.webp",
+      "/assets/p1-10.webp",
+      "/assets/p1-11.webp",
+      "/assets/p1-12.webp",
+      "/assets/p1-13.webp",
+      "/assets/p1-0.webp",
+      "/assets/p1-1.webp",
+      "/assets/p1-2.webp",
+      "/assets/p1-3.webp",
+      "/assets/p1-4.webp",
+      "/assets/p1-5.webp",
+      "/assets/p1-6.webp",
+      "/assets/p1-7.webp"
+    ],
+    "sourceFiles": [
+      "4.png",
+      "5.png",
+      "6.png",
+      "7.png",
+      "8.png",
+      "9.png",
+      "10.png",
+      "11.png",
+      "12.png",
+      "13.png",
+      "14.png",
+      "15.png",
+      "16.png",
+      "17.png"
+    ],
+    "category": "ui",
+    "sourceOrder": [
+      4
+    ],
+    "media": [
+      {
+        "src": "/assets/project-0-motion-0-optimized.mp4",
+        "type": "video",
+        "name": "18_00000_iSpt 2",
+        "originalType": "gif",
+        "loop": true,
+        "poster": "/assets/project-0-motion-0-optimized.webp"
+      }
+    ],
+    "coverSizes": {
+      "480": "/assets/p1-8-cover-480.webp",
+      "960": "/assets/p1-8-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p1-8.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-9.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-10.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-11.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-12.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-13.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-2.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-3.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-4.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-5.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-6.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p1-7.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  },
+  {
+    "name": "孝心通",
+    "desc": "适老体验，让科技更有温度",
+    "tag": "UI / 设备端设计",
+    "cover": "/assets/p0-0.webp",
+    "images": [
+      "/assets/p0-0.webp",
+      "/assets/p0-1.webp",
+      "/assets/p0-2.webp"
+    ],
+    "sourceFiles": [
+      "18-0.png",
+      "18-1.png",
+      "18-2.png"
+    ],
+    "category": "ui",
+    "sourceOrder": [
+      18,
+      0
+    ],
+    "media": [],
+    "coverSizes": {
+      "480": "/assets/p0-0-cover-480.webp",
+      "960": "/assets/p0-0-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p0-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p0-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p0-2.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  },
+  {
+    "name": "准儿机器人",
+    "desc": "赋予科技一个鲜活的表情",
+    "tag": "交互 / 机器人设计",
+    "cover": "/assets/p2-0.webp",
+    "images": [
+      "/assets/p2-0.webp",
+      "/assets/p2-1.webp",
+      "/assets/p2-2.webp",
+      "/assets/p2-3.webp",
+      "/assets/p2-4.webp"
+    ],
+    "sourceFiles": [
+      "18-3.png",
+      "18-4.png",
+      "18-5.png",
+      "18-6.png",
+      "19.png"
+    ],
+    "category": "ui",
+    "sourceOrder": [
+      18,
+      3
+    ],
+    "media": [
+      {
+        "src": "/assets/project-2-motion-0-optimized.mp4",
+        "type": "video",
+        "name": "20大笑",
+        "originalType": "video",
+        "loop": false,
+        "poster": "/assets/project-2-motion-0-optimized.webp"
+      },
+      {
+        "src": "/assets/project-2-motion-1-optimized.mp4",
+        "type": "video",
+        "name": "21失落终",
+        "originalType": "video",
+        "loop": false,
+        "poster": "/assets/project-2-motion-1-optimized.webp"
+      },
+      {
+        "src": "/assets/project-2-motion-2-optimized.mp4",
+        "type": "video",
+        "name": "22左看又看终",
+        "originalType": "video",
+        "loop": false,
+        "poster": "/assets/project-2-motion-2-optimized.webp"
+      }
+    ],
+    "coverSizes": {
+      "480": "/assets/p2-0-cover-480.webp",
+      "960": "/assets/p2-0-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p2-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p2-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p2-2.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p2-3.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p2-4.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  },
+  {
+    "name": "AIGC",
+    "desc": "想象力的另一种生成方式",
+    "tag": "AIGC / 视觉探索",
+    "cover": "/assets/p7-0.webp",
+    "images": [
+      "/assets/p7-0.webp",
+      "/assets/p7-1.webp",
+      "/assets/p7-2.webp",
+      "/assets/p7-3.webp",
+      "/assets/p7-4.webp",
+      "/assets/p7-5.webp",
+      "/assets/p7-6.webp"
+    ],
+    "sourceFiles": [
+      "22.png",
+      "22备份 2.png",
+      "22备份.png",
+      "23.png",
+      "24.png",
+      "25.png",
+      "26.png"
+    ],
+    "category": "visual",
+    "sourceOrder": [
+      22
+    ],
+    "media": [],
+    "coverSizes": {
+      "480": "/assets/p7-0-cover-480.webp",
+      "960": "/assets/p7-0-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p7-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p7-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p7-2.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p7-3.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p7-4.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p7-5.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p7-6.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  },
+  {
+    "name": "同阅防扩散系统",
+    "desc": "以设计传递安全与信任",
+    "tag": "UI / 数据可视化",
+    "cover": "/assets/p4-0.webp",
+    "images": [
+      "/assets/p4-0.webp",
+      "/assets/p4-1.webp",
+      "/assets/p4-2.webp",
+      "/assets/p4-3.webp",
+      "/assets/p4-4.webp",
+      "/assets/p4-5.webp",
+      "/assets/p4-6.webp",
+      "/assets/p4-7.webp"
+    ],
+    "sourceFiles": [
+      "27.png",
+      "28.png",
+      "29.png",
+      "30.png",
+      "31.png",
+      "32.png",
+      "33.png",
+      "34.png"
+    ],
+    "category": "ui",
+    "sourceOrder": [
+      27
+    ],
+    "media": [],
+    "coverSizes": {
+      "480": "/assets/p4-0-cover-480.webp",
+      "960": "/assets/p4-0-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p4-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p4-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p4-2.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p4-3.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p4-4.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p4-5.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p4-6.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p4-7.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  },
+  {
+    "name": "中移云易签系统",
+    "desc": "让数字签署更清晰、高效",
+    "tag": "UI / 企业服务",
+    "cover": "/assets/p3-0.webp",
+    "images": [
+      "/assets/p3-0.webp",
+      "/assets/p3-1.webp",
+      "/assets/p3-2.webp",
+      "/assets/p3-3.webp",
+      "/assets/p3-4.webp",
+      "/assets/p3-5.webp",
+      "/assets/p3-6.webp"
+    ],
+    "sourceFiles": [
+      "35.png",
+      "36.png",
+      "37.png",
+      "38.png",
+      "39.png",
+      "40.png",
+      "41.png"
+    ],
+    "category": "ui",
+    "sourceOrder": [
+      35
+    ],
+    "media": [],
+    "coverSizes": {
+      "480": "/assets/p3-0-cover-480.webp",
+      "960": "/assets/p3-0-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p3-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p3-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p3-2.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p3-3.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p3-4.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p3-5.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p3-6.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  },
+  {
+    "name": "重症人工智能辅助决策系统",
+    "desc": "面向复杂场景的信息秩序",
+    "tag": "UI / 医疗系统",
+    "cover": "/assets/p5-0.webp",
+    "images": [
+      "/assets/p5-0.webp",
+      "/assets/p5-1.webp",
+      "/assets/p5-2.webp"
+    ],
+    "sourceFiles": [
+      "42.png",
+      "43.png",
+      "44.png"
+    ],
+    "category": "ui",
+    "sourceOrder": [
+      42
+    ],
+    "media": [],
+    "coverSizes": {
+      "480": "/assets/p5-0-cover-480.webp",
+      "960": "/assets/p5-0-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p5-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p5-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p5-2.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  },
+  {
+    "name": "三维作品",
+    "desc": "在维度之间，探索视觉语言",
+    "tag": "3D / 视觉设计",
+    "cover": "/assets/p6-0.webp",
+    "images": [
+      "/assets/p6-0.webp",
+      "/assets/p6-1.webp",
+      "/assets/p6-2.webp",
+      "/assets/p6-3.webp",
+      "/assets/p6-4.webp",
+      "/assets/p6-5.webp",
+      "/assets/p6-6.webp"
+    ],
+    "sourceFiles": [
+      "45.png",
+      "46.png",
+      "47.png",
+      "48.png",
+      "49.png",
+      "50.png",
+      "51.png"
+    ],
+    "category": "visual",
+    "sourceOrder": [
+      45
+    ],
+    "media": [],
+    "coverSizes": {
+      "480": "/assets/p6-0-cover-480.webp",
+      "960": "/assets/p6-0-cover-960.webp"
+    },
+    "imageSizes": {
+      "/assets/p6-0.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p6-1.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p6-2.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p6-3.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p6-4.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p6-5.webp": {
+        "width": 2000,
+        "height": 1111
+      },
+      "/assets/p6-6.webp": {
+        "width": 2000,
+        "height": 1111
+      }
+    }
+  }
+]
